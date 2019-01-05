@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sports Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="citys">
+        <item>赣州</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+        <item>北京</item>
+        <item>湖南</item>
+        <item>湖北</item>
+        <item>南宁</item>
+        <item>厦门</item>
+    </string-array>
+</resources>
